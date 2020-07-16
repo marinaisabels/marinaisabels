@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 
 -->
 ### Olá 👋
-
-> Eu sou a Marina! <br/>
+Eu sou a <b>Marina</b>! <br/>
 webdesigner, produtora audiovisual e apaixonada por programação. 💻
 
 
