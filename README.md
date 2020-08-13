@@ -20,4 +20,6 @@ webdesigner, produtora audiovisual e apaixonada por programação. 💻
  Estudando as seguintes Linguagens:<br/>
 ⚡ Javascript - Typescript - React - HTML5 - Node.js - GIT - AWS - JEST
 
-[Entre em contato](https://www.linkedin.com/in/marinaisabel/) ❤️
+Entre em contato ❤️ <br/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinaisabel/)](https://www.linkedin.com/in/marinaisabel/)
+
