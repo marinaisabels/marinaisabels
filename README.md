@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 ### Olá 👋
 Eu sou a <b>Marina</b>! <br/>
-webdesigner, produtora audiovisual e apaixonada por programação. 💻
+webdesigner, produtora audiovisual apaixonada por programação! 
 
+Sou desenvolvedora back-end na Nave.rs 💻
 
  Estudando as seguintes Linguagens:<br/>
-⚡ Javascript - Typescript - Node.js - Python - Ruby - HTML - CSS - GIT 
+⚡ Javascript - Typescript - Node.js - Python - Ruby - HTML - CSS - GIT - AWS
 
-Entre em contato ❤️ <br/>
+Entre em contato: <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinaisabel/)](https://www.linkedin.com/in/marinaisabel/)
 
