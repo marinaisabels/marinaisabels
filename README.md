@@ -19,7 +19,7 @@ webdesigner, produtora audiovisual apaixonada por programação!
 Sou desenvolvedora back-end na Nave.rs 💻
 
  Estudando as seguintes Linguagens:<br/>
-⚡ Javascript - Typescript - Node.js - Python - Ruby - HTML - CSS - GIT - AWS
+⚡ Javascript - Node.js - Python - Ruby on Rails - HTML - CSS - GIT - AWS
 
 Entre em contato: <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinaisabel/)](https://www.linkedin.com/in/marinaisabel/)
