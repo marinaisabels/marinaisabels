@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Eu sou a <b>Marina</b>! <br/>
 webdesigner, produtora audiovisual apaixonada por programação! 
 
-Sou desenvolvedora desenvolvedora de software na Locaweb 💻
+Sou desenvolvedora de software na Locaweb 💻
 
  Estudando as seguintes Linguagens:<br/>
 ⚡ Javascript - Node.js - Python - Ruby on Rails - HTML - CSS - GIT - AWS
