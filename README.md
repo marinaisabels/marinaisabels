@@ -1,5 +1,5 @@
-### Olá 👋
-Oie, eu sou a <b>Marina</b> (: <br/>
+### Oie 👋
+Eu sou a <b>Marina</b> (: <br/>
 
 <p align='center'>
 Sou desenvolvedora de software na Locaweb 💻<br/>
