@@ -1,3 +1,24 @@
+### Olá 👋
+Oie, eu sou a <b>Marina</b> (: <br/>
+
+<p align='center'>
+Sou desenvolvedora de software na Locaweb 💻<br/>
+ E adoro estudar...<br/>
+⚡ Javascript - Python - Ruby on Rails - HTML - CSS - GIT - AWS
+</p>
+
+<p align='center'>
+ <a href="https://www.linkedin.com/in/marinaisabel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+<a href="https://github.com/marinaisabels">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marinaisabels&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/marinaisabels">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaisabels&layout=compact" />
+</a>
+
 <!--
 **marinaisabels/marinaisabels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,15 +33,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-### Olá 👋
-Eu sou a <b>Marina</b>! <br/>
-webdesigner, produtora audiovisual apaixonada por programação! 
-
-Sou desenvolvedora de software na Locaweb 💻
-
- Estudando as seguintes Linguagens:<br/>
-⚡ Javascript - Node.js - Python - Ruby on Rails - HTML - CSS - GIT - AWS
-
-Entre em contato: <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinaisabel/)](https://www.linkedin.com/in/marinaisabel/)
-
