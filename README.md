@@ -2,7 +2,7 @@
 Eu sou a <b>Marina</b> (: <br/>
 
 <p align='center'>
-Sou desenvolvedora de software na Locaweb 💻<br/>
+Sou produtora de tecnologia na TV Globo e estudante de desenvolvimento de software💻<br/>
  E adoro estudar...<br/>
 ⚡ Javascript - Python - Ruby on Rails - HTML - CSS - GIT - AWS
 </p>
